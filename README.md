@@ -2,9 +2,10 @@
 
 ## About Me
 
-Data Analyst doté d’une solide compréhension de l’analyse de données, du reporting et de la qualité des données. J’utilise Excel, SQL, PostgreSQL et Power BI pour transformer les données en informations exploitables et soutenir la prise de décision.
+Data Analyst passionate about data analysis, reporting, and data quality. I use Excel, SQL, PostgreSQL, and Power BI to turn data into meaningful insights, develop performance indicators, and support business decision-making.
 
-Mon objectif est de développer une expertise des systèmes de données et d’information tout en continuant à renforcer mes compétences dans un environnement stimulant.
+My goal is to build strong expertise in data and information systems while continuously improving my analytical, technical, and business skills.
+
 
 ## Technical Skills
 
