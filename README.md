@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Nicéphore 👋
 
-<!--
-**Nicephore01/Nicephore01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Data Analyst passionate about data analysis, reporting and data quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Excel, SQL, PostgreSQL and Power BI to transform data into actionable insights and support decision-making.
+
+My goal is to develop expertise in data and information systems while continuously improving my analytical and technical skills.
+
+## Technical Skills
+
+- Excel
+- SQL
+- PostgreSQL
+- Power BI
+- DAX
+- Data Quality Assessment
+- KPI Design
+- Dashboard Development
+
+## Featured Projects
+
+### Corporate Customer Data Quality Monitoring
+Excel • PostgreSQL • Power BI
+
+Customer data quality assessment project focused on duplicate detection, email validation, phone standardization and KPI monitoring.
+
+### SP95 vs Diesel Price Evolution in France
+Excel • Power BI
+
+Analysis of fuel price evolution during the Middle East crisis and its impact on the French market.
+
+## Portfolio
+
+- Corporate Customer Data Quality Monitoring
+- Fuel price analysis in France
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/nicephore-akoue
+Email: nicephre.akoue@gmail.com
