@@ -9,7 +9,7 @@ My goal is to build strong expertise in data and information systems while conti
 
 ## Technical Skills
 
-* Excel (Reporting automatisé, KPI, Tableaux Croisés Dynamiques)
+* Excel (Reporting automation)
 * SQL
 * PostgreSQL
 * Power BI
